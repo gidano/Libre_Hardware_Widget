@@ -9,7 +9,7 @@
 
 ### Libre Hardware Monitor használata
 1. **Kicsomagolás és indítás:**  
-   A LibreHardwareMonitor hordozható (portable) formátumban, könyvtárral együtt van csomagolva. Bontsd ki egy tetszőleges helyre, majd indítsd el a programot.
+   A [LibreHardwareMonitor](https://github.com/LibreHardwaRemonitor/LibreHardwareMonitor) hordozható (portable) formátumban, könyvtárral együtt van csomagolva. Bontsd ki egy tetszőleges helyre, majd indítsd el a programot.
 
 2. **Webszerver beállítása:**  
    - Nyisd meg a menüben az **Options -> Remote Web Server -> Interface / Port** opciót, és állítsd be a kívánt IP-címet.
