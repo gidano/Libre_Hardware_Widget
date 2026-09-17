@@ -139,8 +139,6 @@ A **Libre Hardware Widget** egy Python (PySide6 / Qt) alapú, asztali rendszermo
 - **Többnyelvűség (HU / EN):** Futás közben azonnal átváltható felületi nyelv (újraindítás nélkül).
 - **Automatikus indítás (Startup with System):** Egy kattintással beállítható a Windows Indítópultba (`.cmd` szkript generálásával).
 
----
-
 <br/>
 <hr style="border: 1px solid #334155; margin: 30px 0;"/>
 <br/>
