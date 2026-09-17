@@ -33,7 +33,7 @@
 - Futtatható a `Libre Widget v0.1.6.exe` fájl.
 - A forráskódot is mellékeltem (`libre_widget.py`), ha esetleg módosítani szeretnéd a működését.
 
-![Libre Hardware Widget Menü](IMAGE_URL_2_HERE)
+![Libre Hardware Widget Menü](https://github.com/gidano/Libre_Hardware_Widget/blob/main/Libre%20Widget/Photos/Libre-widget-setup.png?raw=true)
 
 ### Automatikus indítás (Windows Startup)
 - A **Libre Hardware Monitor** automatikus indítását az **Options** menüben már engedélyezted.
@@ -64,7 +64,7 @@ Használd örömmel! 😁
 3. **Recommended Options:**  
    In the **Options** menu, enable the first 4 options (*Start Minimized, Minimize To Tray, Minimize On Close, Run On Windows Startup*).
 
-![Libre Hardware Monitor Settings](IMAGE_URL_1_HERE)
+![Libre Hardware Monitor Settings](https://github.com/gidano/Libre_Hardware_Widget/blob/main/Libre%20Widget/Photos/Libre-setup.png?raw=true)
 
 ---
 
@@ -72,7 +72,7 @@ Használd örömmel! 😁
 - You can directly run the `Libre Widget v0.1.6.exe` file.
 - The Python source code (`libre_widget.py`) is also included if you need to make any modifications.
 
-![Libre Hardware Widget Menu](IMAGE_URL_2_HERE)
+![Libre Hardware Widget Menu](https://github.com/gidano/Libre_Hardware_Widget/blob/main/Libre%20Widget/Photos/Libre-widget-setup.png?raw=true)
 
 ### Autostart Setup (Windows Startup)
 - **Libre Hardware Monitor:** Already set to start automatically via its **Options** menu.
