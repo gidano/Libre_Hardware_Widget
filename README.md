@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="" width="345">
+  <img src="https://github.com/gidano/Libre_Hardware_Widget/blob/main/Libre%20Widget/Photos/Libre%20Widget.png" width="345">
 </p>
 
 <a name="magyar"></a>
