@@ -4,6 +4,12 @@
 
 ---
 
+</div>
+
+<p align="center">
+  <img src="" width="345">
+</p>
+
 <a name="magyar"></a>
 ## 🇭🇺 Magyar
 
