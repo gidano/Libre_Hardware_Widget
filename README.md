@@ -25,7 +25,7 @@
 3. **Alapvető opciók:**  
    Az **Options** menüben az első 4 lehetőséget ajánlott bepipálni (*Start Minimized, Minimize To Tray, Minimize On Close, Run On Windows Startup*).
 
-![Libre Hardware Monitor Beállítások](IMAGE_URL_1_HERE)
+![Libre Hardware Monitor Beállítások](https://github.com/gidano/Libre_Hardware_Widget/blob/main/Libre%20Widget/Photos/Libre-setup.png?raw=true)
 
 ---
 
