@@ -141,18 +141,6 @@ A **Libre Hardware Widget** egy Python (PySide6 / Qt) alapú, asztali rendszermo
 
 ---
 
-### <span style="color: #38bdf8;">Riasztások és ESP32 / Hardware Kijelző Integráció</span>
-
-<div style="background-color: #1e1b4b; border-left: 4px solid #6366f1; padding: 12px 16px; margin: 15px 0; border-radius: 0 8px 8px 0; color: #e0e7ff;">
-  <b style="color: #a5b4fc;">Riasztások és UDP Broadcast Engine:</b>
-  <ul style="margin-top: 8px; margin-bottom: 0;">
-    <li><b>Vizuális Riasztások (Status Line):</b> Magas CPU hőfok / terhelés riasztás, kritikusan alacsony RAM szabad kapacitás, gyenge CMOS elem feszültség riasztás, megtelt / túlmelegedett lemez figyelmeztetés.</li>
-    <li><b>UDP Broadcast küldés (ESP32 Smart Display support):</b> A widget képes a mért adatokat egyetlen tömörített szöveges füzérben (<code>ver=pywidget-libre-v1;cpu=...;cput=...;ip=...;down=...;up=...</code>) folyamatosan sugározni a helyi hálózaton (UDP broadcast port 4210). Ez közvetlenül meghajthat külső ESP32/Arduino alapú TFT vagy OLED kijelzőket.</li>
-  </ul>
-</div>
-
----
-
 <br/>
 <hr style="border: 1px solid #334155; margin: 30px 0;"/>
 <br/>
@@ -291,13 +279,3 @@ A **Libre Hardware Widget** egy Python (PySide6 / Qt) alapú, asztali rendszermo
 - **Windows Startup Integration:** Toggle auto-start with Windows via generated startup scripts (`.cmd`).
 
 ---
-
-### <span style="color: #38bdf8;">Alerts & ESP32 / Hardware Display Integration</span>
-
-<div style="background-color: #1e1b4b; border-left: 4px solid #6366f1; padding: 12px 16px; margin: 15px 0; border-radius: 0 8px 8px 0; color: #e0e7ff;">
-  <b style="color: #a5b4fc;">Alert System & UDP Broadcast Engine:</b>
-  <ul style="margin-top: 8px; margin-bottom: 0;">
-    <li><b>Visual Status Alerts (Status Line):</b> Real-time warning banners for high CPU temperature / load, critically low free RAM capacity, low CMOS RTC battery voltage, or full / overheating drives.</li>
-    <li><b>UDP Broadcast Transmission (ESP32 Smart Display support):</b> Continuously broadcasts formatted system telemetry telemetry strings (<code>ver=pywidget-libre-v1;cpu=...;cput=...;ip=...;down=...;up=...</code>) over local LAN via UDP broadcast port 4210. Directly powers external ESP32 / Arduino TFT or OLED hardware monitors.</li>
-  </ul>
-</div>
