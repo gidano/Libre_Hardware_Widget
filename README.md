@@ -6,7 +6,7 @@
 
 </div>
 
-<p align="center">
+<p align="center"><img src="https://github.com/gidano/Libre_Hardware_Widget/blob/main/Libre%20Widget/Photos/Libre_Widget_HU.png" width="345">
   <img src="https://github.com/gidano/Libre_Hardware_Widget/blob/main/Libre%20Widget/Photos/Libre%20Widget.png" width="345">
 </p>
 
