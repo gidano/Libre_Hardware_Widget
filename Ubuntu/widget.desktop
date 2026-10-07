@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Ubuntu Monitor Widget
+Exec=python3 /home/gid/Asztal/ubuntu_widget.py
+Icon=utilities-system-monitor
+Terminal=false
+
